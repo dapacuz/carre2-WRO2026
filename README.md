@@ -29,6 +29,7 @@ Para nuestro robot, utilizamos 2 tipos de motores:
 El chasis está compuesto por piezas diseñadas por nosotras en 3D en Tinkercad con el fin de que nuestro diseño sea simple pero efectivo.
 
 # Gestión de potencia, sentidos y obstáculos
+## Elementos principales
 Los elementos principales para la gestión de potencia y sensores son: 
 * Fuente de energía: 2 sets de baterías, uno para alimentar el controlador de motores y uno para el Arduino.
 * Distribución de energía: una placa reguladora/convertidora de voltaje Elegoo Power MV V2
